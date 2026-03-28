@@ -4,7 +4,7 @@
 - Lua: The Scripting language for the GUI part.
     - LÖVE2D: To make coding the GUIs easier and faster.
 
-Tasks: 
+### Tasks: 
 - [x] The hard part, starting the project.
 - [ ] 1st Algorithm (Bubble sort, because its easy to implement)
 - [ ] Simple TUI menu
