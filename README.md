@@ -1,7 +1,5 @@
 # Lua Sorting Algorithms Visualizer
-### (Lua-SAV for short)
----
-> Tools used:
+### Tools used:
 - C: For the algorithm itself, making it fast.
 - Lua: The Scripting language for the GUI part.
     - LÖVE2D: To make coding the GUIs easier and faster.
